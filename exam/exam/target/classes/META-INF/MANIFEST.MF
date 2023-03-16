@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: liuxinyu
+Build-Jdk: 15.0.1
+Implementation-Title: exam
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.boot.exam
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

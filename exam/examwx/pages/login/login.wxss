@@ -1,0 +1,4 @@
+/* pages/login/login.wxss */
+.wrapper{/*只对该页面起作用*/
+  padding: 40rpx;/*rpx可以适配 不同大小屏幕 px是定值*/
+}
